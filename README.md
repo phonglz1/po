@@ -1,13 +1,30 @@
-#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 1
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/27082021k1_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 2
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/27082021k1ns_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 3
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/27082021k1pm_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 4
 #EXTVLCOPT:http-user-agent=VThanhTivi
-https://livecdn.fptplay.net/hdevent/27082021k1pc_4000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 5
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 6
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 7
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 8
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 9
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽️| Live Bóng Đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", AFC 10
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
